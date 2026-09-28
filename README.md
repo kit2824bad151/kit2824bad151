@@ -82,5 +82,21 @@ KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankarishiva035@gmail.com)
 
 ---
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kit2824bad151&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad151&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+    alt="Most used programming languages"
+  />
+</p>
 
 *“Learning, building, and growing one project at a time.”*
