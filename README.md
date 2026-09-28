@@ -1,12 +1,27 @@
-# Hi, I'm Shiva Shankari! 👋
+<h1 align="center">Hi, I'm Shiva Shankari 👋</h1>
 
-### AI & Data Science Student | Aspiring Software Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;Aspiring+Software+Engineer;Building+and+Learning+Every+Day" alt="Typing animation" />
+</p>
 
-I'm a third-year B.Tech student in Artificial Intelligence and Data Science at **KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore**.
-
-I'm interested in building practical solutions through software development, machine learning, and cloud technologies. I enjoy learning by building projects and exploring new tools.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiva-shankari-092349365/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shankarishiva035@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
+
+### About Me
+
+I'm a third-year B.Tech student in **Artificial Intelligence and Data Science** at **KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore**.
+
+I'm interested in software development, artificial intelligence, and building practical technology solutions. I enjoy strengthening my programming fundamentals, exploring new technologies, and learning through hands-on projects.
+
+Currently, I'm focusing on **Java, Data Structures and Algorithms, and full-stack development**, while exploring opportunities to apply my skills to real-world problems.
 
 ### 🛠️ Tech Stack
 
