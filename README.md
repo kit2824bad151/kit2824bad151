@@ -84,19 +84,6 @@ KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
 ---
 ---
 
-### 📊 GitHub Overview
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kit2824bad151&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit2824bad151&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Most used programming languages"
-  />
-</p>
 
 *“Learning, building, and growing one project at a time.”*
