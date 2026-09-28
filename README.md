@@ -18,13 +18,6 @@ Currently, I'm focusing on **Java, Data Structures and Algorithms, and full-stac
 
 ---
 
-### About Me
-
-I'm a third-year B.Tech student in **Artificial Intelligence and Data Science** at **KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore**.
-
-I'm interested in software development, artificial intelligence, and building practical technology solutions. I enjoy strengthening my programming fundamentals, exploring new technologies, and learning through hands-on projects.
-
-Currently, I'm focusing on **Java, Data Structures and Algorithms, and full-stack development**, while exploring opportunities to apply my skills to real-world problems.
 
 ### 🛠️ Tech Stack
 
