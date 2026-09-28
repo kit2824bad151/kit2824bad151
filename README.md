@@ -4,14 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;Aspiring+Software+Engineer;Building+and+Learning+Every+Day" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiva-shankari-092349365/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shankarishiva035@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
 
 ---
 
