@@ -45,27 +45,42 @@ A productivity application designed to help users manage focus sessions and trac
 
 ### 💼 Experience
 
-**Cloud Computing Intern — Nxtlogic Software Solutions**  
-*May – June 2026 | Coimbatore*
+**Cloud Computing Intern | Nxtlogic Software Solutions**  
+*May – June 2026 · Coimbatore, India*
 
 - Worked with Linux and cloud computing concepts.
 - Developed a web application using Python, Flask, and AWS DynamoDB.
+- Gained practical experience in backend development and cloud-based application workflows.
+
+---
+
+### 🎓 Education
+
+**B.Tech – Artificial Intelligence and Data Science**  
+KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore  
+*2024 – 2028*
 
 ---
 
 ### 📜 Certifications
 
+- Cisco — Introduction to Generative AI
 - Cisco — Introduction to Cybersecurity
 - Cisco — Python Essentials 1 & 2
-- Cisco — Introduction to Generative AI
+- Cisco — Apply AI: Analyze Customer Reviews
 - IBM — Machine Learning
 - Coursera — Data Visualization with Python
 - Coursera — Introduction to AI
+- Simplilearn — Introduction to MongoDB
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect With Me
 
-- **LinkedIn:** [Shiva Shankari](https://www.linkedin.com/in/shiva-shankari-092349365/)
-- **GitHub:** [kit2824bad151](https://github.com/kit2824bad151)
-- **Email:** shankarishiva035@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-shankari-092349365/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shankarishiva035@gmail.com)
+
+---
+
+*“Learning, building, and growing one project at a time.”*
